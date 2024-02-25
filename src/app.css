@@ -1,0 +1,10 @@
+/* @import url(https://fonts.googleapis.com/css?family=Open+Sans); */
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: monospace, 'Arial';
+}
