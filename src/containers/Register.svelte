@@ -40,8 +40,3 @@
   </div>
 </header>
 
-<style>
-  .gui-gay {
-    background: black;
-  }
-</style>
